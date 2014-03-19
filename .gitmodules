@@ -1,0 +1,4 @@
+[submodule "config/public/wp-content/plugins/theplatform-video-manager-EU"]
+	path = config/public/wp-content/plugins/theplatform-video-manager-EU
+	url = https://github.com/wabiloo/thePlatform-video-manager-EU.git
+	branch = development
